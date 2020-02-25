@@ -5,6 +5,9 @@ public class AssignmentOne {
         {
             System.out.println( "Hello Lindy" );
 
+
+            System.out.println("Welcome to the world of coding");
+
         }
 
         public int calculate (int x1, int x2) {
