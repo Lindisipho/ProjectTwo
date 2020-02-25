@@ -8,6 +8,8 @@ public class AssignmentOne {
 
             System.out.println("Welcome to the world of coding read clear");
 
+            System.out.print("This is the test commit");
+
         }
 
         public int calculate (int x1, int x2) {
