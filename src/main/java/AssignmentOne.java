@@ -6,7 +6,7 @@ public class AssignmentOne {
             System.out.println( "Hello Lindy" );
 
 
-            System.out.println("Welcome to the world of coding");
+            System.out.println("Welcome to the world of coding read clear");
 
         }
 
